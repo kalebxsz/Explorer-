@@ -1,0 +1,21 @@
+header {
+    margin-bottom: auto;
+    padding: 20px;
+    background-color: gainsboro;
+    border-bottom: 1px gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    padding: 0%;
+    margin: 0;
+}
+
+#mytitle {
+    color: gray
+}
